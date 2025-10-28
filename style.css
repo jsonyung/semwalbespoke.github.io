@@ -1,12 +1,21 @@
-/* Basic setup */
-body {
+/* Reset + layout */
+* {
   margin: 0;
-  font-family: 'Poppins', sans-serif;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
   color: #222;
   background: #f9f9f9;
   text-align: center;
-  display: flex;
-  flex-direction: column;
   min-height: 100vh;
 }
 
@@ -50,8 +59,13 @@ h1 {
 }
 
 /* Content Section */
-section {
+main {
+  flex: 1;
   padding: 60px 20px;
+}
+
+section {
+  padding: 40px 20px;
   max-width: 800px;
   margin: 0 auto;
 }
@@ -76,7 +90,11 @@ footer {
   color: #ccc;
   padding: 20px 10px;
   font-size: 0.9rem;
+  text-align: center;
   margin-top: auto;
+  position: relative;
+  bottom: 0;
+  width: 100%;
 }
 
 /* Animations */
@@ -91,12 +109,15 @@ footer {
 }
 
 @keyframes pulse {
-  0% { transform: scale(1); opacity: 1; }
+  0%, 100% { transform: scale(1); opacity: 1; }
   50% { transform: scale(1.05); opacity: 0.9; }
-  100% { transform: scale(1); opacity: 1; }
 }
 
-/* Fade effects for scrolling */
+.pulse {
+  animation: pulse 2.5s infinite ease-in-out;
+}
+
+/* Fade-up effect for scroll */
 .fade-up {
   opacity: 0;
   transform: translateY(40px);
@@ -108,6 +129,17 @@ footer {
   transform: translateY(0);
 }
 
-/* Logo pulse animation */
-.pulse {
-  animation: pulse 2.5s infinite ease-in
+/* Responsive Design */
+@media (max-width: 600px) {
+  .hero {
+    padding: 80px 15px 60px;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  .subtitle, .coming-soon {
+    font-size: 1rem;
+  }
+}
