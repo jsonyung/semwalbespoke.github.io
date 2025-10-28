@@ -5,6 +5,14 @@ document.addEventListener("scroll", () => {
 
   elements.forEach((el) => {
     const boxTop = el.getBoundingClientRect().top;
-    if (boxTop < triggerBottom) el.classList.add("visible");
+    if (boxTop < triggerBottom) {
+      el.classList.add("visible");
+    }
   });
+});
+
+// Trigger initial animation for visible elements on load
+window.addEventListener("load", () => {
+  const event = new Event("scroll");
+  document.dispatchEvent(event);
 });
