@@ -4,38 +4,89 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Semwal Bespoke India Pvt. Ltd.</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;500;700&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet" />
+
   <link rel="stylesheet" href="style.css" />
 </head>
+
 <body>
-  <!-- Hero Section -->
-  <header class="hero fade-in">
-    <img src="assets/logo.png" alt="Semwal Bespoke Logo" class="logo pulse" />
-    <h1>Semwal Bespoke India Pvt. Ltd.</h1>
-    <p class="subtitle">Official Website (In Development)</p>
-    <div class="coming-soon fade-up">Coming Soon...</div>
+  <header class="navbar">
+    <div class="nav-container">
+      <div class="nav-logo">
+        <img src="assets/logo_brand_light.svg" alt="Semwal Bespoke Logo" />
+        <span class="brand-name">Semwal Bespoke</span>
+      </div>
+      <nav class="nav-links">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#craft">Craftsmanship</a>
+        <a href="#contact">Contact</a>
+        <a href="legal/index.html">Policies</a> </nav>
+    </div>
   </header>
 
-  <main>
-    <!-- About Section -->
-    <section class="content fade-up">
-      <h2>About</h2>
-      <p>
-        Welcome to the official development version of <strong>Semwal Bespoke</strong>.  
-        We are building a tailored experience that combines precision, craftsmanship,  
-        and modern technology to redefine bespoke fashion.
-      </p>
-    </section>
+  <section id="home" class="hero fade-in">
+    <div class="hero-inner">
+      <img src="assets/logo_brand_light.svg" alt="Semwal Bespoke Logo" class="logo" />
+      <h1>Luxury Tailoring for the Modern Gentleman</h1>
+      <p>Where craftsmanship meets innovation — bespoke fashion designed for you.</p>
+      <a href="#about" class="btn-primary">Discover More</a>
+    </div>
+  </section>
 
-    <!-- Contact Section -->
-    <section class="contact fade-up">
-      <h2>Contact</h2>
-      <p>Email: <a href="mailto:support@semwalbespoke.in">support@semwalbespoke.in</a></p>
-    </section>
-  </main>
+  <section id="about" class="about fade-up">
+    <div class="about-container">
+      <div class="about-text">
+        <h2>About Us</h2>
+        <p>
+          <strong>Semwal Bespoke</strong> represents the union of heritage tailoring and modern technology.
+          Our craftsmen design garments that tell stories of individuality, precision, and luxury — each made
+          to measure, each made to last.
+        </p>
+        <p>
+          From concept to creation, every detail is bespoke — ensuring perfection in fit, form, and finesse.
+        </p>
+      </div>
 
-  <!-- Footer -->
+      <div class="about-image">
+        <img src="assets/about_tailor_measuring.jpg" alt="Tailor measuring a client for a bespoke suit" />
+      </div>
+    </div>
+  </section>
+
+  <section id="craft" class="craft fade-up">
+    <h2>Our Craftsmanship</h2>
+    <p>
+      From hand-stitched lapels to precision-cut suits, every Semwal Bespoke garment is crafted
+      to achieve timeless elegance and modern comfort.
+    </p>
+
+    <div class="craft-gallery">
+      <img src="assets/craft_measurement.jpg" alt="Tailor measuring client in bespoke studio" />
+      <img src="assets/craft_suit_studio.jpg" alt="Bespoke suit studio view" />
+      <img src="assets/craft_fabric_rolls.jpg" alt="Luxury fabric rolls in tailor shop" />
+      <img src="assets/craft_stitch_closeup.jpg" alt="Close-up of tailor stitching fabric" />
+    </div>
+  </section>
+
+  <section id="contact" class="contact fade-up">
+    <h2>Contact Us</h2>
+    <p>Let’s start crafting your bespoke story.</p>
+    <a href="mailto:support@semwalbespoke.in" class="contact-email">support@semwalbespoke.in</a>
+  </section>
+
   <footer>
-    © 2025 Semwal Bespoke India Pvt. Ltd. All Rights Reserved.
+    <p>© 2025 Semwal Bespoke India Pvt. Ltd. All Rights Reserved.</p>
+    <div class="footer-links">
+      <a href="legal/index.html">Policies</a> |
+      <a href="legal/privacy-policy.html">Privacy</a> |
+      <a href="legal/terms-and-conditions.html">Terms</a> |
+      <a href="legal/returns-and-refunds-policy.html">Returns</a> |
+      <a href="legal/shipping-policy.html">Shipping</a> |
+      <a href="legal/cookie-policy.html">Cookies</a> |
+      <a href="legal/impressum.html">Impressum</a>
+    </div>
   </footer>
 
   <script src="script.js"></script>
