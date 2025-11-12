@@ -1,17 +1,27 @@
-# 🧵 Semwal Bespoke (Official Web Version)
+#  Semwal Bespoke - Legal Policy Hub
 
-Welcome to the **official web version** of **Semwal Bespoke India Pvt. Ltd.** —  
-India’s emerging bespoke tailoring brand redefining luxury, craftsmanship, and personalization for the modern gentleman.
-
----
-
-🌐 **Live Website:**  
-👉 [https://jsonyung.github.io/semwalbespoke.github.io/](https://jsonyung.github.io/semwalbespoke.github.io/)
-
-🛠️ **Status:**  
-Currently **in active development** — featuring a **Coming Soon** page with smooth brand animations and responsive design.
+This repository hosts the official legal policies for **Semwal Bespoke India Pvt. Ltd.**, including its website and mobile applications.
 
 ---
 
-💼 **Semwal Bespoke India Pvt. Ltd.**  
-_Crafted for elegance. Designed with precision._
+### 🌐 Live Legal Hub
+
+All policies are publicly available and can be viewed at our legal hub:
+
+👉 **[https://jsonyung.github.io/semwalbespoke.github.io/legal/index.html](https://jsonyung.github.io/semwalbespoke.github.io/legal/index.html)**
+
+### 📂 Policies Included:
+
+* Privacy Policy
+* Terms & Conditions
+* Returns & Refunds Policy
+* Shipping Policy
+* Cookie Policy
+* End-User License Agreement (EULA)
+* Impressum (Legal Notice)
+* Disclaimer
+* Acceptable Use Policy
+
+---
+
+💼 **Semwal Bespoke India Pvt. Ltd.** _Crafted for elegance. Designed with precision._
