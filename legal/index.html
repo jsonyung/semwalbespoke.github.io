@@ -6,79 +6,20 @@
   <title>Legal Policies | Semwal Bespoke India Pvt. Ltd.</title>
 
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Lato:wght@300;400;500&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="../style.css" />
-
-  <style>
-    /* =============== LOCAL STYLES FOR LEGAL HUB =============== */
-    body {
-      background: #f9f7f3;
-      color: #1c1c1c;
-      font-family: "Lato", sans-serif;
-    }
-    header {
-      background: linear-gradient(135deg, #d4b56d 0%, #e5c880 40%, #fff 100%);
-      text-align: center;
-      padding: 120px 20px 80px;
-      border-bottom: 1px solid rgba(0,0,0,0.05);
-    }
-    header img { width: 90px; margin-bottom: 20px; }
-    header h1 {
-      font-family: "Poppins", sans-serif;
-      font-size: 2.2rem;
-      color: #1a1a1a;
-      margin-bottom: 10px;
-    }
-    header p { font-size: 1rem; color: #333; }
-
-    .legal-container {
-      max-width: 1000px;
-      margin: 60px auto;
-      padding: 0 20px;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 30px;
-    }
-    .policy-card {
-      background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
-      padding: 30px 20px;
-      text-align: center;
-      transition: all 0.3s ease;
-    }
-    .policy-card:hover {
-      transform: translateY(-6px);
-      box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
-    }
-    .policy-card h3 {
-      font-family: "Poppins", sans-serif;
-      color: #0e0e0e;
-      margin-bottom: 12px;
-      font-size: 1.25rem;
-    }
-    .policy-card p { font-size: 0.95rem; color: #555; margin-bottom: 18px; }
-    .policy-card a { color: #c6a661; font-weight: 600; text-decoration: none; }
-
-    footer {
-      background: #0e0e0e;
-      color: #ccc;
-      text-align: center;
-      padding: 25px;
-      font-size: 0.9rem;
-      margin-top: 80px;
-    }
-    footer a { color: #e5c880; text-decoration: none; margin: 0 5px; }
-  </style>
+  
+  <link rel="stylesheet" href="./style.css" />
 </head>
 
 <body>
-  <header>
-    <img src="../assets/logo_brand_light.svg" alt="Semwal Bespoke Logo">
-    <h1>Our Legal Policies</h1>
-    <p>Transparency, trust, and tailored experiences — crafted with integrity.</p>
-  </header>
+
+  <div id="main-header"></div>
 
   <main>
+    <div class="main-title-container">
+      <h1>Our Legal Policies</h1>
+      <p>Transparency, trust, and tailored experiences — crafted with integrity.</p>
+    </div>
+
     <div class="legal-container">
       <div class="policy-card">
         <h3>Privacy Policy</h3>
@@ -128,13 +69,8 @@
     </div>
   </main>
 
-  <footer>
-    <p>© 2025 Semwal Bespoke India Pvt. Ltd. All Rights Reserved.</p>
-    <a href="../index.html">Home</a> |
-    <a href="privacy-policy.html">Privacy</a> |
-    <a href="terms-and-conditions.html">Terms</a> |
-    <a href="returns-and-refunds-policy.html">Returns</a> |
-    <a href="cookie-policy.html">Cookies</a>
-  </footer>
+  <div id="main-footer"></div>
+
+  <script src="./script.js" defer></script>
 </body>
 </html>
