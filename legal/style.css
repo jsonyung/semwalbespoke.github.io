@@ -1,0 +1,90 @@
+/* =============== STYLES FOR LEGAL PAGES (FIXED) =============== */
+body {
+  background: #ffffff;
+  color: #333;
+  font-family: "Lato", sans-serif;
+  margin: 0;
+  line-height: 1.7;
+}
+
+/* --- Compact Header --- */
+header {
+  background: #ffffff;
+  padding: 15px 30px; /* Compact height */
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eeeeee; /* The separator line */
+}
+header img { 
+  width: 50px;
+  margin-right: 15px; 
+}
+.brand-name {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.5rem;
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+/* --- Main Content Area (for policy text) --- */
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+/* --- Simple Footer (FIXED) --- */
+footer {
+  background: #222222;
+  color: #aaa;
+  text-align: center;
+  padding: 20px; /* A balanced, clean padding */
+  font-size: 0.9rem;
+  margin-top: 80px; /* Good spacing */
+}
+
+/* --- Styles for Legal Hub (legal/index.html) --- */
+.main-title-container {
+  text-align: center;
+  padding: 0 0 50px;
+}
+.main-title-container h1 {
+  font-family: "Poppins", sans-serif;
+  font-size: 2.2rem;
+  color: #1a1a1a;
+  margin: 0 0 10px 0;
+}
+.main-title-container p {
+  font-size: 1rem; 
+  color: #555; 
+  margin: 0;
+}
+.legal-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+}
+.policy-card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
+  padding: 30px 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+.policy-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+.policy-card h3 {
+  font-family: "Poppins", sans-serif;
+  color: #111;
+  margin-bottom: 12px;
+  font-size: 1.25rem;
+}
+.policy-card p { font-size: 0.95rem; color: #555; margin-bottom: 18px; }
+.policy-card a {
+  color: #007bff; /* Main Blue Color */
+  font-weight: 600;
+  text-decoration: none;
+}
