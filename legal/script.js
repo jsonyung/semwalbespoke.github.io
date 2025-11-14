@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  // ALWAYS correct absolute base path for GitHub Pages
+  // Absolute path to the legal folder on GitHub Pages
   const BASE = "/semwalbespoke.github.io/legal";
 
   const headerPlaceholder = document.querySelector("#main-header");
