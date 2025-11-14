@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  // Always correct absolute base path
-  const BASE = "https://jsonyung.github.io/semwalbespoke.github.io/legal";
+  // ALWAYS correct absolute base path for GitHub Pages
+  const BASE = "/semwalbespoke.github.io/legal";
 
   const headerPlaceholder = document.querySelector("#main-header");
   const footerPlaceholder = document.querySelector("#main-footer");
