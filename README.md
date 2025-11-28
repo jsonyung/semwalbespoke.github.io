@@ -1,13 +1,13 @@
 # Semwal Bespoke — Legal Policy Hub
 
 Welcome to the official legal documentation repository of **Semwal Bespoke India Pvt. Ltd.**  
-This hub ensures transparency and compliance for all users of our website and mobile applications.
+This hub ensures transparency, compliance, and trust for all users of our website and mobile applications.
 
 ---
 
 ## 🌐 Live Legal Hub
 
-Access all legal documents directly from our hosted legal center:
+Browse all our official legal policies centrally here:
 
 👉 **https://jsonyung.github.io/semwalbespoke.github.io/legal/index.html**
 
@@ -15,7 +15,7 @@ Access all legal documents directly from our hosted legal center:
 
 ## 📄 Policies Included (Direct Links)
 
-You can access each legal document individually below:
+Each document can be accessed individually below:
 
 - **Privacy Policy**  
   👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/privacy-policy.html
@@ -44,30 +44,39 @@ You can access each legal document individually below:
 - **Impressum (Legal Notice)**  
   👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/impressum.html
 
-Each policy provides required details about our services, user rights, data handling, liabilities, and compliance obligations.
+These documents outline user rights, data processing practices, legal obligations, and compliance requirements for using our platform and services.
 
 ---
 
-## 🛡️ Our Commitment
+## 🛡️ Our Legal Commitment
 
-At Semwal Bespoke, your trust is our priority.  
-We are committed to:
+At Semwal Bespoke, we prioritize your trust.  
+We remain committed to:
 
-- Ethical data handling  
+- Ethical and responsible data management  
 - Transparent communication  
-- Responsible business practices  
-- Legal protection for customers and brand  
+- Strong legal governance  
+- Protecting user and company interests  
 
 ---
 
-## 📬 Contact
+## 📬 Contact Us
 
-For legal questions or compliance inquiries, contact us anytime:
+For any legal queries, rights requests, or compliance communications:
 
 ✉️ support@semwalbespoke.in  
 🌍 https://semwalbespoke.in  
 
 ---
 
-© **Semwal Bespoke India Pvt. Ltd.**  
-*Crafted for elegance. Designed with precision.*
+## 🔐 Intellectual Property Notice
+
+© 2025 Semwal Bespoke India Pvt. Ltd.  
+**All Rights Reserved.**
+
+The content of this repository — including legal texts, branding, and design elements — is the exclusive property of Semwal Bespoke India Pvt. Ltd.  
+Unauthorized use, reproduction, distribution, or publication is prohibited without written permission.
+
+---
+
+> *Crafted for elegance. Designed with precision.*
