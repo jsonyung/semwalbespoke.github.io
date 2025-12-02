@@ -5,17 +5,15 @@ This hub ensures transparency, compliance, and trust for all users of our websit
 
 ---
 
-## 🌐 Live Legal Hub
+## 🌐 Central Legal Hub
 
-Browse all our official legal policies centrally here:
+Browse all our legal policies centrally here:
 
-👉 **https://jsonyung.github.io/semwalbespoke.github.io/legal/index.html**
+👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/index.html
 
 ---
 
 ## 📄 Policies Included (Direct Links)
-
-Each document can be accessed individually below:
 
 - **Privacy Policy**  
   👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/privacy-policy.html
@@ -44,25 +42,35 @@ Each document can be accessed individually below:
 - **Impressum (Legal Notice)**  
   👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/impressum.html
 
-These documents outline user rights, data processing practices, legal obligations, and compliance requirements for using our platform and services.
+---
+
+### 🔐 Data & Account Deletion (Both URLs valid)
+
+✔ Updated Official Page  
+👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/data-deletion.html  
+
+✔ Legacy Redirect Page (used by Play Store)  
+👉 https://jsonyung.github.io/semwalbespoke.github.io/legal/delete-account.html  
+
+> Both links lead to the same updated legal guidance.  
+> Google Play & Facebook reviewers can use either.
 
 ---
 
-## 🛡️ Our Legal Commitment
+## 🛡️ Our Compliance Commitment
 
-At Semwal Bespoke, we prioritize your trust.  
-We remain committed to:
+At Semwal Bespoke, we prioritize:
 
-- Ethical and responsible data management  
-- Transparent communication  
-- Strong legal governance  
-- Protecting user and company interests  
+- User privacy & consent  
+- Ethical data handling  
+- Government & GDPR compliance  
+- Secure data storage and deletion  
 
 ---
 
-## 📬 Contact Us
+## 📬 Contact & Support
 
-For any legal queries, rights requests, or compliance communications:
+For legal or compliance requests:
 
 ✉️ support@semwalbespoke.in  
 🌍 https://semwalbespoke.in  
@@ -74,9 +82,8 @@ For any legal queries, rights requests, or compliance communications:
 © 2025 Semwal Bespoke India Pvt. Ltd.  
 **All Rights Reserved.**
 
-The content of this repository — including legal texts, branding, and design elements — is the exclusive property of Semwal Bespoke India Pvt. Ltd.  
-Unauthorized use, reproduction, distribution, or publication is prohibited without written permission.
+Unauthorized reproduction, distribution, or modification of this content is prohibited.
 
 ---
 
-> *Crafted for elegance. Designed with precision.*
+✨ *Crafted with integrity. Tailored for trust.*
